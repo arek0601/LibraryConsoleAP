@@ -1,0 +1,7 @@
+D:\CodeSchool\pawelak-arkadiusz\LibraryProgramConsole\LibraryProgramConsole\bin\Debug\LibraryProgramConsole.exe.config
+D:\CodeSchool\pawelak-arkadiusz\LibraryProgramConsole\LibraryProgramConsole\bin\Debug\LibraryProgramConsole.exe
+D:\CodeSchool\pawelak-arkadiusz\LibraryProgramConsole\LibraryProgramConsole\bin\Debug\LibraryProgramConsole.pdb
+D:\CodeSchool\pawelak-arkadiusz\LibraryProgramConsole\LibraryProgramConsole\obj\Debug\LibraryProgramConsole.csprojResolveAssemblyReference.cache
+D:\CodeSchool\pawelak-arkadiusz\LibraryProgramConsole\LibraryProgramConsole\obj\Debug\LibraryProgramConsole.csproj.CoreCompileInputs.cache
+D:\CodeSchool\pawelak-arkadiusz\LibraryProgramConsole\LibraryProgramConsole\obj\Debug\LibraryProgramConsole.exe
+D:\CodeSchool\pawelak-arkadiusz\LibraryProgramConsole\LibraryProgramConsole\obj\Debug\LibraryProgramConsole.pdb
